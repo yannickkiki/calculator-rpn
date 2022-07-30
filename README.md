@@ -9,12 +9,12 @@
   - Add an item to the stack
   - Get all items in the stack
   - Clear the stack
-  - Operation + 
-  - Operation - 
-  - Operation *
-  - Operation / 
+  - Operation `+` 
+  - Operation `-` 
+  - Operation `*`
+  - Operation `/` 
 
 To run tests:
-- python manage.py test
+- `python manage.py test`
 
 You can check the code of the testcases in `rpn.tests`
