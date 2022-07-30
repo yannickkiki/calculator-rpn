@@ -1,4 +1,4 @@
-### Points non développés / non achevés en raison de la limite de temps
+### Points non développés / non achevés
 
 * Non implémenté :
   * gestion de plusieurs piles : dans l'implémentation actuelle, j'ai considéré
